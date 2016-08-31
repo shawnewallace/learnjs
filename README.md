@@ -26,3 +26,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Creative Commons Attributions
 
   * HeroImage.jpg is licensed from popularwoodworking.com under the Creative Commons Attribution License (CC BY 3.0 US).
+
+
+
+## SHAWN
+http://learnjs.shawnewallace.com.s3-website-us-east-1.amazonaws.com
