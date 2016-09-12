@@ -1,6 +1,6 @@
 {
     "AllowUnauthenticatedIdentities": false,
     "SupportedLoginProviders": {
-        "accounts.google.com": "<Google Client ID Here!>"
+        "accounts.google.com": "170006773849-l8hbts137j011io5dq320tpv36k28vl4.apps.googleusercontent.com"
     }
 }
